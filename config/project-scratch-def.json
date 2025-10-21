@@ -3,7 +3,6 @@
   "edition": "Developer",
   "hasSampleData": true,
   "adminEmail": "datadetect@example.com",
-  "release": "preview",
   "features": ["PlatformEncryption", "AdditionalFieldHistory:40", "FieldAuditTrail", "EnableSetPasswordInApi", "EventLogFile", "SecurityEventEnabled"],
   "settings": {
     "lightningExperienceSettings": {
