@@ -1,6 +1,6 @@
 DataDetectPolicy plcy = new DataDetectPolicy(
     Description = 'This is a representative, typical data detect policy',
-    Name = 'Sample Data Detect Policy1',
+    Name = 'Sample Data Detect Policy',
     ScanType = 'PatternMatch',
     StartTime = Datetime.newInstance(2024, 11, 18, 1, 0, 0),
     EndTime = Datetime.newInstance(2025, 11, 18, 1, 0, 0)
